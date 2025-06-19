@@ -1,0 +1,14 @@
+{
+  "name": "esp32-azure-function",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.27.0",
+    "esp32-azure-function": "file:",
+    "mssql": "^11.0.1"
+  }
+}
