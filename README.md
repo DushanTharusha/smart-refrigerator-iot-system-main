@@ -77,8 +77,9 @@ Prediction Results → Power BI
 
 ## 👥 Contributors
 
-- **BiNuda Dewhan**  
 - **Tharusha Nelligahawatte**
+- **BiNuda Dewhan**  
+
 
 ---
 
