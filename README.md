@@ -83,8 +83,4 @@ Prediction Results → Power BI
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration, feel free to reach out via LinkedIn!
-www.linkedin.com/in/binuda-dewhan
 
